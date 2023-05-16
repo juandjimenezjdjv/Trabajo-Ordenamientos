@@ -1,0 +1,104 @@
+body {
+    background-color: #f9f7f0;
+    margin: 0;
+    font-family: 'Unbounded', cursive;
+}
+hr {
+    border: dotted #178ca4 6px;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    width: 10%;
+    margin: 100px auto 75px;
+}
+h1 {
+    font-size: 100px;
+    width: 50%;
+    line-height: 2;
+    margin: 0 auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #cecdcc;
+    /* margin: top right button left
+       margin: (top/button) (right/left) ej: margin: 0 auto;*/
+}
+.name{
+    font-family: 'Montserrat', sans-serif;
+    color: #f9f7f0;
+    font-weight: normal;
+    padding-bottom: 10px;
+    line-height: 2;
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-weight: normal;
+    padding-bottom: 10px;
+    line-height: 1;
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+
+}
+.top {
+    background-color: #178ca4;
+    padding-top: 50px;
+    margin: 0% 0%;  
+}
+.middle {
+    line-height: 2;
+    margin: 5% 5%; 
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.bottom {
+    background-color: #072A40;
+    margin: 0% 5% 0%;
+    padding-top: 50px;
+    padding-bottom: 20px; 
+}
+.stu {
+    text-decoration: underline;
+}
+.ordenamiento {
+    width: 300px;
+    transition: width 0.3s ease;
+    cursor: pointer;
+}
+.ordenamiento:hover {
+    width: 650px;
+  }
+.close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 20px;
+    color: #fff;
+    cursor: pointer;
+  }
+.skill-row {
+    margin: 100px auto 150px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+.link {
+    color: #f9f7f0;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a {
+    color: #178ca4;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover {
+    color: #178ca4
+}
+.copyr{
+    color: #f9f7f0;
+    font-size: 0.75rem;
+    padding: 20px 0px;
+}
